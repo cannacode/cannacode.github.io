@@ -5,6 +5,8 @@
 
 	[]	Solucionar tema claves y conexión a servidor
 
+	[]	Solucionar dirección de conexión en la red local (vhosts*apache)
+
 
 [Team]===================================================================================================================================================
 
