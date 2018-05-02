@@ -1,16 +1,42 @@
-[FICHA DE SOCIO]	(miembros.php)
+[General]================================================================================================================================================
 
-	[]	Añadir generar ficha de invitado
-	[]	Añadir avalar a un nuevo socio
-	[]	Añadir registro de TODAS las retiradas de un socio (en un modal)*bootstrap
+	[]	Crear logotipos ¡YA!
+	[]	Identidad visual/ de marca
 
-[DISPENSARIO]		(dispensario.php)
-
-	[]	Añadir enlace a ficha de socio en el código de socio de la tabla en la página del dispensario 
+	[]	Solucionar tema claves y conexión a servidor
 
 
-[*NUEVA PÁGINA - INFORMES]
-	[]
 
-[CAJA MENSUAL]
-	[]	Añadir socios registrados éste mes?
+
+
+[Edición CannaCRM]=======================================================================================================================================
+
+
+	[FICHA DE SOCIO]	(miembros.php)
+
+		[]	Añadir generar ficha de invitado
+		[]	Añadir avalar a un nuevo socio
+		[]	Añadir registro de TODAS las retiradas de un socio (en un modal)*bootstrap
+
+	[DISPENSARIO]		(dispensario.php)
+
+		[]	Añadir enlace a ficha de socio en el código de socio de la tabla en la página del dispensario 
+		[]
+
+	[CAJA MENSUAL]
+
+		[]	Añadir socios registrados éste mes?
+
+
+
+	[*NUEVA PÁGINA - INFORMES]
+
+	[*NUEVA PÁGINA - CONFIGURACIÓN]
+		
+		[]	Cambiar esquema de colores
+		[]	Añadir imagen de fondo
+		[]	Cambiar logotipo
+		[]	Cambiar plantilla?
+		[]	Cambiar nombre Asociación
+		[]	Grupos de usuarios (hasta 3?)
+		[]	Bonificaciones/Descuentos según grupo
