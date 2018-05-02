@@ -1,3 +1,16 @@
-[]	Añadir enlace a ficha de socio en el código de socio de la tabla en la página del dispensario (dispensario.php)
-[]	Añadir generar ficha de invitado en la ficha de socio
-[]	Añadir avalar a un nuevo socio en la ficha de socio
+[FICHA DE SOCIO]	(miembros.php)
+
+	[]	Añadir generar ficha de invitado
+	[]	Añadir avalar a un nuevo socio
+	[]	Añadir registro de TODAS las retiradas de un socio (en un modal)*bootstrap
+
+[DISPENSARIO]		(dispensario.php)
+
+	[]	Añadir enlace a ficha de socio en el código de socio de la tabla en la página del dispensario 
+
+
+[*NUEVA PÁGINA - INFORMES]
+	[]
+
+[CAJA MENSUAL]
+	[]	Añadir socios registrados éste mes?
