@@ -10,7 +10,7 @@
 
 [Team]===================================================================================================================================================
 
-	[]	Community Management?
+	[]	Community Management: Toni s'encarrega de publicacions aprovades a les xarxes (ig, tw, etc)
 	[]	Plan de Dominio y Hosting?
 	[]	Privatizar Github?
 	[]	Aprender Google Analytics
