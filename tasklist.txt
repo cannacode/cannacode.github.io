@@ -1,3 +1,21 @@
+[Servidor CannGuru "Características del Sistema"]=========================================================================================
+
+	[] 1 Base de datos x aso
+	[] Interfaz de administración:
+		-> Registro nuevas asos
+		-> Acceso interfaz aso
+		-> Administración backups
+		-> [...]
+	[] Política de protección de datos (Abogado)
+		-> ¿Cómo redactar/Qué incluir?
+		-> EULA
+			->¿Procesar datos anónimos? (Posible fin comercial)
+
+[Funciones/Servicios a añadir]============================================================================================================
+
+	[] CannaRouter (QoS): Destina un porcentage (60%) del ancho de banda a la red privada (CannaSystems: CannaWatch, CannaDisplay, CannaGuru) y el restannte (40%) a la red pública para los socios.
+
+
 [General]================================================================================================================================================
 
 	[]	Crear logotipos ¡YA!
@@ -14,6 +32,7 @@
 	[]	Plan de Dominio y Hosting?
 	[]	Privatizar Github?
 	[]	Aprender Google Analytics
+
 
 
 [Edición CannaCRM]=======================================================================================================================================
