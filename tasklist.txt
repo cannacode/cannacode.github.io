@@ -1,3 +1,8 @@
+Workflow y normas generales de trabajo:
+
+	- Tener una base más o menos común de conocimientos (Cloud)
+	- Decidir una manera de aprobar las decisiones
+	- 
 [Servidor CannGuru "Características del Sistema"]=========================================================================================
 
 	[] 1 Base de datos x aso
@@ -10,6 +15,7 @@
 		-> ¿Cómo redactar/Qué incluir?
 		-> EULA
 			->¿Procesar datos anónimos? (Posible fin comercial)
+		-> Documento de agradecimiento al cliente (ref. -> papelito Phillips)
 
 [Funciones/Servicios a añadir]============================================================================================================
 
