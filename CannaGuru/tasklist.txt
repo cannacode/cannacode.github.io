@@ -1,0 +1,74 @@
+Workflow y normas generales de trabajo:
+
+	- Tener una base más o menos común de conocimientos (Cloud)
+	- Decidir una manera de aprobar las decisiones
+	- 
+[Servidor CannGuru "Características del Sistema"]=========================================================================================
+
+	[] 1 Base de datos x aso
+	[] Interfaz de administración:
+		-> Registro nuevas asos
+		-> Acceso interfaz aso
+		-> Administración backups
+		-> [...]
+	[] Política de protección de datos (Abogado)
+		-> ¿Cómo redactar/Qué incluir?
+		-> EULA
+			->¿Procesar datos anónimos? (Posible fin comercial)
+		-> Documento de agradecimiento al cliente (ref. -> papelito Phillips)
+
+[Funciones/Servicios a añadir]============================================================================================================
+
+	[] CannaRouter (QoS): Destina un porcentage (60%) del ancho de banda a la red privada (CannaSystems: CannaWatch, CannaDisplay, CannaGuru) y el restannte (40%) a la red pública para los socios.
+
+
+[General]================================================================================================================================================
+
+	[]	Crear logotipos ¡YA!
+	[]	Identidad visual/ de marca
+
+	[]	Solucionar tema claves y conexión a servidor
+
+	[]	Solucionar dirección de conexión en la red local (vhosts*apache)
+
+
+[Team]===================================================================================================================================================
+
+	[]	Community Management: Toni s'encarrega de publicacions aprovades a les xarxes (ig, tw, etc)
+	[]	Plan de Dominio y Hosting?
+	[]	Privatizar Github?
+	[]	Aprender Google Analytics
+
+
+
+[Edición CannaCRM]=======================================================================================================================================
+
+
+	[FICHA DE SOCIO]	(miembros.php)
+
+		[]	Añadir generar ficha de invitado
+		[]	Añadir avalar a un nuevo socio
+		[]	Añadir registro de TODAS las retiradas de un socio (en un modal)*bootstrap
+
+	[DISPENSARIO]		(dispensario.php)
+
+		[]	Añadir enlace a ficha de socio en el código de socio de la tabla en la página del dispensario 
+		[]
+
+	[CAJA MENSUAL]
+
+		[]	Añadir socios registrados éste mes?
+
+
+
+	[*NUEVA PÁGINA - INFORMES]
+
+	[*NUEVA PÁGINA - CONFIGURACIÓN]
+		
+		[]	Cambiar esquema de colores
+		[]	Añadir imagen de fondo
+		[]	Cambiar logotipo
+		[]	Cambiar plantilla?
+		[]	Cambiar nombre Asociación
+		[]	Grupos de usuarios (hasta 3?)
+		[]	Bonificaciones/Descuentos según grupo
